@@ -1,3 +1,3 @@
 # Demo
 
-This is a text.
+This is a demo page.
