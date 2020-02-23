@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+# Reading Files
+include:
+  - pages
